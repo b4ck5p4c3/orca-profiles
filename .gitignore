@@ -1,33 +1,11 @@
 /*
 !.gitignore
-!filament/
+!/filament/
 /filament/*
-!machine/
+!/machine/
 /machine/*
-!process/
-/proccess/*
-
-!machine/Mamont 0.4n.info
-!machine/Mamont 0.4n.json
-!process/0.20mm Standard @Mamont 0.4n.info
-!process/0.20mm Standard @Mamont 0.4n.json
-!filament/Default ABS profile @0.20mm Standard @Mamont 0.4n.info
-!filament/Default ABS profile @0.20mm Standard @Mamont 0.4n.json
-!filament/Default PETG profile @0.20mm Standard @Mamont 0.4n.info
-!filament/Default PETG profile @0.20mm Standard @Mamont 0.4n.json
-!filament/Default PLA profile @0.20mm Standard @Mamont 0.4n.info
-!filament/Default PLA profile @0.20mm Standard @Mamont 0.4n.json
-!filament/Fusrock ABS-GF10 black @0.20mm Standard @Mamont 0.4n.info
-!filament/Fusrock ABS-GF10 black @0.20mm Standard @Mamont 0.4n.json
-!filament/Fusrock ABS-GF10 purple @0.20mm Standard @Mamont 0.4n.info
-!filament/Fusrock ABS-GF10 purple @0.20mm Standard @Mamont 0.4n.json
-!filament/Generic ABS A70015 purple @0.20mm Standard @Mamont 0.4n.info
-!filament/Generic ABS A70015 purple @0.20mm Standard @Mamont 0.4n.json
-!filament/Generic TPU @System - Copy @0.20mm Standard @Mamont 0.4n.info
-!filament/Generic TPU @System - Copy @0.20mm Standard @Mamont 0.4n.json
-!filament/Kingroon ABS black @0.20mm Standard @Mamont 0.4n.info
-!filament/Kingroon ABS black @0.20mm Standard @Mamont 0.4n.json
-!filament/Syntech ABS black @0.20mm Standard @Mamont 0.4n.info
-!filament/Syntech ABS black @0.20mm Standard @Mamont 0.4n.json
-!filament/Unknown ABS white @0.20mm Standard @Mamont 0.4n.info
-!filament/Unknown ABS white @0.20mm Standard @Mamont 0.4n.json
+!/process/
+/process/*
+!/machine/Mamont 0.4n.json
+!/process/*@Mamont 0.4n.json
+!/filament/*@Mamont 0.4n.json
