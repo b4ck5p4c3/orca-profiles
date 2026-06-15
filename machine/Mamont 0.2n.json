@@ -1,6 +1,7 @@
 {
 	"before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nTIMELAPSE_TAKE_FRAME\nG92 E0\n",
 	"from": "User",
+	"host_type": "octoprint",
 	"inherits": "Voron 2.4 250 0.2 nozzle",
 	"machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]",
 	"name": "Mamont 0.2n",

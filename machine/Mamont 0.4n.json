@@ -1,44 +1,44 @@
 {
-    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nTIMELAPSE_TAKE_FRAME\nG92 E0\n",
-    "fan_speedup_overhangs": "0",
-    "fan_speedup_time": "1.5",
-    "from": "User",
-    "inherits": "Voron 2.4 250 0.4 nozzle",
-    "machine_max_acceleration_x": [
-        "15000",
-        "20000"
-    ],
-    "machine_max_acceleration_y": [
-        "15000",
-        "20000"
-    ],
-    "machine_max_speed_x": [
-        "750",
-        "200"
-    ],
-    "machine_max_speed_y": [
-        "750",
-        "200"
-    ],
-    "machine_max_speed_z": [
-        "20",
-        "12"
-    ],
-    "machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n",
-    "name": "BKSP voron2.4 0.4 nozzle (default)",
-    "print_host": "voron24.int.bksp.in",
-    "printer_extruder_id": [
-        "1"
-    ],
-    "printer_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "printer_settings_id": "BKSP voron2.4 0.4 nozzle (default)",
-    "retraction_length": [
-        "0.4"
-    ],
-    "version": "2.3.1.10",
-    "z_hop_types": [
-        "Spiral Lift"
-    ]
+	"before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nTIMELAPSE_TAKE_FRAME\nG92 E0\n",
+	"fan_speedup_overhangs": "0",
+	"fan_speedup_time": "1.5",
+	"from": "User",
+	"inherits": "Voron 2.4 250 0.4 nozzle",
+	"machine_max_acceleration_x": [
+		"15000",
+		"20000"
+	],
+	"machine_max_acceleration_y": [
+		"15000",
+		"20000"
+	],
+	"machine_max_speed_x": [
+		"750",
+		"200"
+	],
+	"machine_max_speed_y": [
+		"750",
+		"200"
+	],
+	"machine_max_speed_z": [
+		"20",
+		"12"
+	],
+	"machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n",
+	"name": "Mamont 0.4n",
+	"print_host": "voron24.int.bksp.in",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Mamont 0.4n",
+	"retraction_length": [
+		"0.4"
+	],
+	"version": "2.3.1.10",
+	"z_hop_types": [
+		"Spiral Lift"
+	]
 }

@@ -1,0 +1,88 @@
+{
+	"default_filament_profile": [
+		"Generic PLA @0.20mm Standard @Zovan 0.4n"
+	],
+	"default_print_profile": "0.20mm Standard @Zovan 0.4n",
+	"deretraction_speed": [
+		"50"
+	],
+	"from": "User",
+	"host_type": "octoprint",
+	"inherits": "MyKlipper 0.4 nozzle",
+	"machine_end_gcode": "END_PRINT",
+	"machine_max_acceleration_e": [
+		"15000",
+		"5000"
+	],
+	"machine_max_acceleration_extruding": [
+		"15000",
+		"20000"
+	],
+	"machine_max_acceleration_retracting": [
+		"15000",
+		"5000"
+	],
+	"machine_max_acceleration_x": [
+		"15000",
+		"20000"
+	],
+	"machine_max_acceleration_y": [
+		"15000",
+		"20000"
+	],
+	"machine_max_jerk_e": [
+		"25",
+		"2.5"
+	],
+	"machine_max_jerk_x": [
+		"90",
+		"9"
+	],
+	"machine_max_jerk_y": [
+		"90",
+		"9"
+	],
+	"machine_max_jerk_z": [
+		"2",
+		"0.4"
+	],
+	"machine_max_speed_e": [
+		"30",
+		"25"
+	],
+	"machine_max_speed_z": [
+		"10",
+		"12"
+	],
+	"machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]\n",
+	"max_layer_height": [
+		"0.35"
+	],
+	"min_layer_height": [
+		"0.05"
+	],
+	"name": "Zovan 0.4n",
+	"nozzle_height": "4",
+	"print_host": "3d-printer.int.bksp.in",
+	"printable_area": [
+		"0x0",
+		"290x0",
+		"290x200",
+		"0x200"
+	],
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Zovan 0.4n",
+	"retraction_speed": [
+		"50"
+	],
+	"thumbnails": "48x48/PNG, 300x300/PNG",
+	"version": "2.0.2.0",
+	"z_hop": [
+		"0"
+	]
+}

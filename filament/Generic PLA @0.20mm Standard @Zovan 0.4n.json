@@ -1,0 +1,22 @@
+{
+    "compatible_printers": [
+        "Zovan 0.4n"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Generic PLA @0.20mm Standard @Zovan 0.4n"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "Generic PLA @0.20mm Standard @Zovan 0.4n",
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "version": "2.0.2.0"
+}
