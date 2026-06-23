@@ -1,66 +1,66 @@
 {
-    "compatible_printers": [
-        "Voron 2.4 250 0.4 nozzle"
-    ],
-    "default_filament_colour": [
-        "#000000"
-    ],
-    "enable_pressure_advance": [
-        "1"
-    ],
-    "fan_max_speed": [
-        "60"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.91"
-    ],
-    "filament_max_volumetric_speed": [
-        "28"
-    ],
-    "filament_notes": [
-        "отлично печатается на температурах 230-265. только на 270 начинаются немного сопли с retraction 0.4 - 12.04.2026 @forkingu\nоткалибровано: nozzle temp, max vol speed, pa - 12.04.2026 @forkingu\nоткалибровано: flow ratio, retraction - 13.04.2026 @forkingu\n"
-    ],
-    "filament_retraction_length": [
-        "0.4"
-    ],
-    "filament_settings_id": [
-        "Syntech ABS black @0.20mm Standard @Mamont 0.4n"
-    ],
-    "filament_vendor": [
-        "Syntech"
-    ],
-    "from": "User",
-    "hot_plate_temp_initial_layer": [
-        "100"
-    ],
-    "inherits": "Generic ABS @System",
-    "name": "Syntech ABS black @0.20mm Standard @Mamont 0.4n",
-    "nozzle_temperature": [
-        "250"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "250"
-    ],
-    "nozzle_temperature_range_high": [
-        "250"
-    ],
-    "nozzle_temperature_range_low": [
-        "230"
-    ],
-    "overhang_fan_speed": [
-        "100"
-    ],
-    "pressure_advance": [
-        "0.0225"
-    ],
-    "slow_down_for_layer_cooling": [
-        "0"
-    ],
-    "slow_down_layer_time": [
-        "1"
-    ],
-    "version": "2.3.2.60"
+	"compatible_printers": [
+		"Voron 2.4 250 0.4 nozzle"
+	],
+	"default_filament_colour": [
+		"#000000"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"fan_max_speed": [
+		"60"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.91"
+	],
+	"filament_max_volumetric_speed": [
+		"28"
+	],
+	"filament_notes": [
+		"отлично печатается на температурах 230-265. только на 270 начинаются немного сопли с retraction 0.4 - 12.04.2026 @forkingu\nоткалибровано: nozzle temp, max vol speed, pa - 12.04.2026 @forkingu\nоткалибровано: flow ratio, retraction - 13.04.2026 @forkingu\n"
+	],
+	"filament_retraction_length": [
+		"0.4"
+	],
+	"filament_settings_id": [
+		"Syntech ABS black @0.20mm Standard @Mamont 0.4n"
+	],
+	"filament_vendor": [
+		"Syntech"
+	],
+	"from": "User",
+	"hot_plate_temp_initial_layer": [
+		"100"
+	],
+	"inherits": "Generic ABS @System",
+	"name": "Syntech ABS black @0.20mm Standard @Mamont 0.4n",
+	"nozzle_temperature": [
+		"250"
+	],
+	"nozzle_temperature_initial_layer": [
+		"250"
+	],
+	"nozzle_temperature_range_high": [
+		"250"
+	],
+	"nozzle_temperature_range_low": [
+		"230"
+	],
+	"overhang_fan_speed": [
+		"60"
+	],
+	"pressure_advance": [
+		"0.0225"
+	],
+	"slow_down_for_layer_cooling": [
+		"0"
+	],
+	"slow_down_layer_time": [
+		"1"
+	],
+	"version": "2.3.2.60"
 }

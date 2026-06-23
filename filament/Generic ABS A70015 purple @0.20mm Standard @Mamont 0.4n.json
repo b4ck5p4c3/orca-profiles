@@ -1,63 +1,66 @@
 {
-    "compatible_printers": [
-        "Voron 2.4 250 0.4 nozzle"
-    ],
-    "default_filament_colour": [
-        "#813D9C"
-    ],
-    "enable_pressure_advance": [
-        "1"
-    ],
-    "fan_max_speed": [
-        "60"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.94"
-    ],
-    "filament_max_volumetric_speed": [
-        "25"
-    ],
-    "filament_notes": [
-        "откалибровано 08.04.2026: temperature tower, max flow, pressure advance, flow multiplier, retraction\n@forkingu"
-    ],
-    "filament_retraction_length": [
-        "0.2"
-    ],
-    "filament_settings_id": [
-        "Generic ABS A70015 purple"
-    ],
-    "from": "User",
-    "hot_plate_temp": [
-        "110"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "110"
-    ],
-    "inherits": "Generic ABS @System",
-    "name": "Generic ABS A70015 purple",
-    "nozzle_temperature": [
-        "250"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "250"
-    ],
-    "nozzle_temperature_range_high": [
-        "260"
-    ],
-    "nozzle_temperature_range_low": [
-        "230"
-    ],
-    "pressure_advance": [
-        "0.035"
-    ],
-    "slow_down_for_layer_cooling": [
-        "0"
-    ],
-    "slow_down_layer_time": [
-        "1"
-    ],
-    "version": "2.3.2.60"
+	"compatible_printers": [
+		"Voron 2.4 250 0.4 nozzle"
+	],
+	"default_filament_colour": [
+		"#813D9C"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"fan_max_speed": [
+		"60"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.94"
+	],
+	"filament_max_volumetric_speed": [
+		"25"
+	],
+	"filament_notes": [
+		"откалибровано 08.04.2026: temperature tower, max flow, pressure advance, flow multiplier, retraction\n@forkingu"
+	],
+	"filament_retraction_length": [
+		"0.2"
+	],
+	"filament_settings_id": [
+		"Generic ABS A70015 purple @0.20mm Standard @Mamont 0.4n"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"110"
+	],
+	"hot_plate_temp_initial_layer": [
+		"110"
+	],
+	"inherits": "Generic ABS @System",
+	"name": "Generic ABS A70015 purple @0.20mm Standard @Mamont 0.4n",
+	"nozzle_temperature": [
+		"250"
+	],
+	"nozzle_temperature_initial_layer": [
+		"250"
+	],
+	"nozzle_temperature_range_high": [
+		"260"
+	],
+	"nozzle_temperature_range_low": [
+		"230"
+	],
+	"overhang_fan_speed": [
+		"60"
+	],
+	"pressure_advance": [
+		"0.035"
+	],
+	"slow_down_for_layer_cooling": [
+		"0"
+	],
+	"slow_down_layer_time": [
+		"1"
+	],
+	"version": "2.3.2.60"
 }

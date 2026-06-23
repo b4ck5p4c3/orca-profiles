@@ -1,57 +1,60 @@
 {
-    "compatible_printers": [
-        "Voron 2.4 250 0.4 nozzle"
-    ],
-    "default_filament_colour": [
-        "#161616"
-    ],
-    "enable_pressure_advance": [
-        "1"
-    ],
-    "fan_max_speed": [
-        "30"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.9"
-    ],
-    "filament_max_volumetric_speed": [
-        "15"
-    ],
-    "filament_notes": [
-        "это пиздец. им печатать прям тяжко\nон сильно гуще чем обычный abs, ему надо выше температуру, и он сильнее варпится. чтобы (почти) не варпился, пришлось принтер фольгой обклеить, и с температурой в камере 55* стало уже неплохо. но все еще стенки оверхэнгов загибаются вверх :/\nмне кажется, это потому что он матовый. красиво, конечно, но того не стоит\n@forkingu"
-    ],
-    "filament_retract_when_changing_layer": [
-        "0"
-    ],
-    "filament_settings_id": [
-        "Kingroon ABS black"
-    ],
-    "filament_vendor": [
-        "Kingroon"
-    ],
-    "filament_wipe": [
-        "0"
-    ],
-    "from": "User",
-    "hot_plate_temp": [
-        "110"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "110"
-    ],
-    "inherits": "Generic ABS @System",
-    "name": "Kingroon ABS black",
-    "nozzle_temperature_range_high": [
-        "270"
-    ],
-    "pressure_advance": [
-        "0.045"
-    ],
-    "slow_down_layer_time": [
-        "0.5"
-    ],
-    "version": "2.3.1.10"
+	"compatible_printers": [
+		"Voron 2.4 250 0.4 nozzle"
+	],
+	"default_filament_colour": [
+		"#161616"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"fan_max_speed": [
+		"30"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.9"
+	],
+	"filament_max_volumetric_speed": [
+		"15"
+	],
+	"filament_notes": [
+		"это пиздец. им печатать прям тяжко\nон сильно гуще чем обычный abs, ему надо выше температуру, и он сильнее варпится. чтобы (почти) не варпился, пришлось принтер фольгой обклеить, и с температурой в камере 55* стало уже неплохо. но все еще стенки оверхэнгов загибаются вверх :/\nмне кажется, это потому что он матовый. красиво, конечно, но того не стоит\n@forkingu"
+	],
+	"filament_retract_when_changing_layer": [
+		"0"
+	],
+	"filament_settings_id": [
+		"Kingroon ABS black @0.20mm Standard @Mamont 0.4n"
+	],
+	"filament_vendor": [
+		"Kingroon"
+	],
+	"filament_wipe": [
+		"0"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"110"
+	],
+	"hot_plate_temp_initial_layer": [
+		"110"
+	],
+	"inherits": "Generic ABS @System",
+	"name": "Kingroon ABS black @0.20mm Standard @Mamont 0.4n",
+	"nozzle_temperature_range_high": [
+		"270"
+	],
+	"overhang_fan_speed": [
+		"60"
+	],
+	"pressure_advance": [
+		"0.045"
+	],
+	"slow_down_layer_time": [
+		"0.5"
+	],
+	"version": "2.3.1.10"
 }

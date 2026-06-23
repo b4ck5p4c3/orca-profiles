@@ -1,54 +1,54 @@
 {
-    "compatible_printers": [
-        "Voron 2.4 250 0.4 nozzle"
-    ],
-    "enable_pressure_advance": [
-        "1"
-    ],
-    "fan_max_speed": [
-        "60"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.935"
-    ],
-    "filament_max_volumetric_speed": [
-        "23"
-    ],
-    "filament_notes": [
-        "default ABS profile\nбыл обновлен по настройкам обычного фиолетового abs - 07.04.2026 @forkingu\nустановлен retraction на 0.2, потому что пока все абс которые я тестила перестают сопливить на 0.1. беру 0.2 для запаса - 13.04.2026 @forkingu"
-    ],
-    "filament_retraction_length": [
-        "0.2"
-    ],
-    "filament_settings_id": [
-        "Default ABS profile"
-    ],
-    "from": "User",
-    "hot_plate_temp": [
-        "105"
-    ],
-    "inherits": "Generic ABS @System",
-    "name": "Default ABS profile",
-    "nozzle_temperature": [
-        "250"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "250"
-    ],
-    "overhang_fan_speed": [
-        "100"
-    ],
-    "pressure_advance": [
-        "0.035"
-    ],
-    "slow_down_for_layer_cooling": [
-        "0"
-    ],
-    "slow_down_layer_time": [
-        "1"
-    ],
-    "version": "2.3.2.60"
+	"compatible_printers": [
+		"Voron 2.4 250 0.4 nozzle"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"fan_max_speed": [
+		"60"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.935"
+	],
+	"filament_max_volumetric_speed": [
+		"23"
+	],
+	"filament_notes": [
+		"default ABS profile\nбыл обновлен по настройкам обычного фиолетового abs - 07.04.2026 @forkingu\nустановлен retraction на 0.2, потому что пока все абс которые я тестила перестают сопливить на 0.1. беру 0.2 для запаса - 13.04.2026 @forkingu"
+	],
+	"filament_retraction_length": [
+		"0.2"
+	],
+	"filament_settings_id": [
+		"Default ABS profile @0.20mm Standard @Mamont 0.4n"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"105"
+	],
+	"inherits": "Generic ABS @System",
+	"name": "Default ABS profile @0.20mm Standard @Mamont 0.4n",
+	"nozzle_temperature": [
+		"250"
+	],
+	"nozzle_temperature_initial_layer": [
+		"250"
+	],
+	"overhang_fan_speed": [
+		"60"
+	],
+	"pressure_advance": [
+		"0.035"
+	],
+	"slow_down_for_layer_cooling": [
+		"0"
+	],
+	"slow_down_layer_time": [
+		"1"
+	],
+	"version": "2.3.2.60"
 }
