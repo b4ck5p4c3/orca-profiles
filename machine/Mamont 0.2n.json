@@ -5,7 +5,7 @@
 	"inherits": "Voron 2.4 250 0.2 nozzle",
 	"machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]",
 	"name": "Mamont 0.2n",
-	"print_host": "http://voron24.int.bksp.in",
+	"print_host": "http://mamont.int.bksp.in",
 	"printer_extruder_id": [
 		"1"
 	],
