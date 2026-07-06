@@ -26,7 +26,7 @@
 	],
 	"machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n",
 	"name": "Mamont 0.4n",
-	"print_host": "voron24.int.bksp.in",
+	"print_host": "mamont.int.bksp.in",
 	"printer_extruder_id": [
 		"1"
 	],
